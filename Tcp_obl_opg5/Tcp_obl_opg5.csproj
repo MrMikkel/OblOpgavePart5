@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Football">
+      <HintPath>..\..\..\..\OneDrive\Dokumenter\1.Datamatiker_ting\Afleveringer\Oblikatorisk opgave 3. semester\Task1_CsharpAndUnittests\Football\bin\Debug\netstandard2.0\Football.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
